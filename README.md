@@ -1,5 +1,4 @@
 # Currency-Arbitrage-Loop-Algorithm
-
 This project aims to find currency arbitrage loops to perform a profitable trading order. 
 
 For example, using the below table and starting with $100 US,
